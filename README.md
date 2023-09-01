@@ -1,1 +1,1 @@
-# React_tutorial
+# Astro_tutorial
